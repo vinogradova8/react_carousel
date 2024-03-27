@@ -1,1 +1,10 @@
 // style go here
+form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+input {
+  margin-left: 10px;
+}
